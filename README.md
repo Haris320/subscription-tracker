@@ -83,25 +83,4 @@ The VPS setup allows for complete customization and direct server access, making
 - **Development**: Nodemon for hot-reloading, ESLint for code quality
 
 ## 📁 Project Structure
-subscription-tracker/
-├── app.js                      # Application entry point
-├── config/                     # Configuration files
-│   ├── arcjet.js              # Arcjet setup
-│   └── env.js                 # Environment variables
-├── controllers/               # Business logic layer
-│   ├── auth.controller.js
-│   ├── subscription.controller.js
-│   └── user.controller.js
-├── database/                  # Database connection
-│   └── mongodb.js
-├── middlewares/               # Request processing layer
-│   ├── arcjet.middleware.js
-│   ├── auth.middleware.js
-│   └── error.middleware.js
-├── models/                    # Data schemas
-│   ├── subscription.model.js
-│   └── user.model.js
-└── routes/                    # API endpoints
-    ├── auth.routes.js
-    ├── subscription.routes.js
-    └── user.routes.js
+<img width="423" height="443" alt="image" src="https://github.com/user-attachments/assets/83974a05-fd8c-4526-aea5-48074e980ec1" />
